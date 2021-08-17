@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width="40px" height="40px">
 </div>
 
-<h2>Contact me : </h2>
+
 
