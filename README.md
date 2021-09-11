@@ -1,6 +1,8 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<https://github.com/VDliveson>)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Vanshaj)](https://git.io/typing-svg)
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" align="left">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hi%2C+I'm+Vanshaj)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/72307306/132961159-0aaf9116-d679-4166-8563-b1982a4c184c.png" weight="200px" height="200px" align="right">
 
 #### I'm a software engineering student with experience in Full-stack development in django & node.js
@@ -17,9 +19,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&bg_color=0.25,e66465,9198e5)
-<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" weight="200px" height="200px" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VDliveson&layout=compact&bg_color=0.25,e66465,9198e5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>Technologies I have worked with : </h2>
+<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" weight="200px" height="200px" >
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40px" height="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="40px" height="40px"></code>
