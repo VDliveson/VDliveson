@@ -1,6 +1,10 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<https://github.com/VDliveson>)
 
-- 👋 Hi, I’m @VDliveson
+## 👋 Hi, I’m Vanshaj
+<img src="https://user-images.githubusercontent.com/72307306/132961159-0aaf9116-d679-4166-8563-b1982a4c184c.png" weight="200px" height="200px" align="right">
+
+#### I'm a software engineering student with experience in Full-stack development in django & node.js
+
 - 👀 I’m interested in Web Development and Machine Learning,A.I.
 - 🌱 I’m currently learning Web Development,Python and ML
 - 💞️ I’m looking to collaborate on Web Development and Python Projects
@@ -10,10 +14,11 @@
 VDliveson/VDliveson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&theme=outrun)
+
+![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&bg_color=0.25,e66465,9198e5)
 
 <h2>Technologies I have worked with : </h2>
-<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" weight="200px" height="200px">
+<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" weight="200px" height="200px" >
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40px" height="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="40px" height="40px"></code>
@@ -26,6 +31,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width="40px" height="40px"></code>
 
 
-<h2>My portfolio website</h2>
+<h2>Portfolio website</h2>
 <a href="https://vdliveson.github.io/">Portfolio-Website</a>
 
