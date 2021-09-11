@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&theme=outrun)
 <h2>Technologies I have worked with : </h2>
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" height="200px" width="200px" style="float:right;background-color:#003140;">
+<img src="">
 <div display="flex" style="background-color:#003140">
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40px" height="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="40px" height="40px"></code>
