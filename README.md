@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hi%2C+I'm+Vanshaj)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/72307306/132961159-0aaf9116-d679-4166-8563-b1982a4c184c.png" weight="200px" height="200px" align="right">
 
-#### I'm a software engineering student with experience in Full-stack development in django & node.js
+#### I'm a software engineering student with experience in development in django & node.js
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 - 👀 I’m interested in Web Development and Machine Learning,A.I.
