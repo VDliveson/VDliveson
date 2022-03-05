@@ -18,9 +18,9 @@ VDliveson/VDliveson is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&bg_color=0.25,e66465,9198e5)
+![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDliveson&show_icons=true&theme=outrun)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VDliveson&layout=compact&bg_color=0.25,e66465,9198e5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VDliveson&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Technologies I have worked with : </h2>
