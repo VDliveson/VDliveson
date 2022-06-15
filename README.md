@@ -1,12 +1,18 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<https://github.com/VDliveson>)
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" align="left">
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50px" align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hi%2C+I'm+Vanshaj)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/72307306/155315169-dea7c85a-0d84-4002-9bc6-27bfecd6eb28.png" weight="200px" height="200px" align="right">
 
+<br><br>
+
 #### I'm a software engineering student with experience in development in django & node.js
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+<br>
+ <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" 
+      width="200px">
+ 
+ ### About Me:
 
 - 👀 I’m interested in Web Development and Machine Learning,A.I.
 - 🌱 I’m currently learning Web Development,Python and ML
