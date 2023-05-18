@@ -8,7 +8,7 @@
 
 <br><br>
 
-#### I'm a software engineering student with experience in development in django & node.js
+#### I'm a software engineering student with experience in FullStack & Machine Learning
 
 <a href="https://vdliveson.github.io/">Visit my website here</a>
 
