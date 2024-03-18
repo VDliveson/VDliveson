@@ -1,4 +1,3 @@
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<https://github.com/VDliveson>)
 
 
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50px" align="left">
@@ -8,7 +7,7 @@
 
 <br><br>
 
-#### I'm a software engineering student with experience in FullStack & Machine Learning
+#### I'm a software engineering student with experience in FullStack development & Machine Learning
 
 <a href="https://vdliveson.github.io/">Visit my website here</a>
 
@@ -18,8 +17,8 @@
  ### About Me:
 
 - 👀 I’m interested in Web Development and Machine Learning,A.I.
-- 🌱 I’m currently learning Web Development,Python and ML
-- 💞️ I’m looking to collaborate on Web Development and Python Projects
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on Web Development and Golang projects
 - 📫 How to reach me vanshajduggal1234@gmail.com
 
 <!---
@@ -44,4 +43,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src="https://nedbatchelder.com/pix/django-icon-256.png" width="40px" height="40px"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" width="40px" height="40px"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width="40px" height="40px"></code>
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width="40px"></code>
+<code><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" height="40px"></code>
+<code><img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40px"></code>
